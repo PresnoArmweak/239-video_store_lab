@@ -17,7 +17,7 @@ Upload Save and Display CSV
 [239-video_store_lab](https://github.com/PresnoArmweak/239-video_store_lab) 
  
 ## Screenshot of homepage 
-![alt](url) 
+![alt](home.jpg) 
  
 ## Markdown Cheat Sheet 
 [cheatsheet](https://www.markdownguide.org/cheat-sheet/) ) 
